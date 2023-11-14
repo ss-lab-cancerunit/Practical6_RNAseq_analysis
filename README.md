@@ -1,0 +1,1 @@
+# Practical6_RNAseq_analysis
